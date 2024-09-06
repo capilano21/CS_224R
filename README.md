@@ -1,8 +1,3 @@
-Here's a sample `README.md` for a Reinforcement Learning (RL) project using Model-Agnostic Meta-Learning (MAML) and adversarial policy generation:
-
----
-
-# RL with MAML and Adversarial Policy Generation
 
 This project implements a reinforcement learning (RL) framework that combines **Model-Agnostic Meta-Learning (MAML)** for fast adaptation across multiple tasks and **Adversarial Policy Generation** to improve the robustness of the learned policy. The aim is to build agents that can quickly adapt to new tasks while being resistant to adversarial environments.
 
